@@ -1,0 +1,5 @@
+[10:22:15.773   ] [UNKNOWN        ] [New logger     ] ============================================
+[10:22:15.773   ] [UNKNOWN        ] [New logger     ] ============================================
+[10:22:15.774   ] [INFO           ] [log_function2  ] Logging from thread
+[10:22:15.774   ] [ERROR          ] [log_function1  ] Logging from thread2
+[10:22:15.774   ] [ERROR          ] [log_function1  ] Logging from thread3
