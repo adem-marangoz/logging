@@ -126,14 +126,7 @@ int main() {
 - Thread safety is ensured by using `std::mutex` for synchronizing access to the singleton instance.
 - If the filename is provided, logs will be written to the file in append mode. If the file cannot be opened, logs will fall back to being printed to the console.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## Contact
-For any questions or issues, please contact [your-email@example.com].
-```
-
-You can save this content to a file named `README.md`.
